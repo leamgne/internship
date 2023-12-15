@@ -1,0 +1,17 @@
+SE = Speculum examination 
+NS = Normal saline
+P000x = likely eliminate from dataset due to blueness
+P000d = dirty cervix that might affect data quality
+P000w = white substance oozing from cervix
+P000b = bloody cervix 
+P000b : [b0 = minor, b1 = major][1s = some image, 1m = most image]
+P000m = miss proportion
+P000l = lesion-like texture
+-----
+NG = Normal saline + green filter
+AA = Acetic acid 
+AG = Acetic acid + green filter
+AH = Acetic acid + higher magnification
+AE = Acetic acid + endocervical speculum
+VS = Visualization of the SCJ
+LI = Lugol's iodine
